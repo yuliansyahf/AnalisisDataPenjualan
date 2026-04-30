@@ -14,7 +14,7 @@
 | **Nama** | FADI ALYULIANSYAH |
 | **Kelas** | XI RPL 5 |
 | **Absen** | 13 |
-| **Sekolah** | SMKN 1 Kota Bekasi |
+| **Sekolah** | SMK TELKOM MALANG |
 | **Tahun Ajaran** | 2025/2026 |
 
 ---
